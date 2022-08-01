@@ -18,13 +18,17 @@ header{
 }
 
 h2{
-    color: rgb(49, 49, 49);
+    color: #7A7A7A;
     display: block;
     margin: auto;
     font-weight: bolder;
-    font-size: 0.9em;
+    font-size: 15px;
     max-width: 850px;
-    line-height: 1.5em;
+    line-height: 27.9px;
+}
+
+section{
+    padding-bottom: 35px;
 }
 
 .social{
