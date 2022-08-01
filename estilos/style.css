@@ -33,6 +33,7 @@ section{
 
 .social{
     position: absolute;
+    top: 50%;
     right: 10px;
     columns: 1; 
     padding: 10px;
